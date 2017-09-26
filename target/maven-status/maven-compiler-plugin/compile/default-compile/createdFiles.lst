@@ -1,0 +1,11 @@
+com\gmail\regahruzty\universitas\model\Jurusan.class
+com\gmail\regahruzty\universitas\controller\KelasAddFormController.class
+com\gmail\regahruzty\universitas\dao\MahasiswaDao.class
+com\gmail\regahruzty\universitas\model\Kelas.class
+com\gmail\regahruzty\universitas\controller\KelasDeleteController.class
+com\gmail\regahruzty\universitas\controller\KelasListController.class
+com\gmail\regahruzty\universitas\model\Mahasiswa.class
+com\gmail\regahruzty\universitas\konfig\KonfigDB.class
+com\gmail\regahruzty\universitas\controller\KelasUpdateController.class
+com\gmail\regahruzty\universitas\controller\MahasiswaListController.class
+com\gmail\regahruzty\universitas\dao\KelasDao.class
